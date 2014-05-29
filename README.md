@@ -12,6 +12,3 @@ This is an PHP + jQuery driven AJAX live chat or Shoutbox if you will. It comes 
 
 ##License
 Released under the MIT License - http://opensource.org/licenses/mit-license.php
-
-##Contact
-Twitter [@markeliasen](https://twitter.com/markeliasen)
